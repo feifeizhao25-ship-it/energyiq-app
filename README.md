@@ -9,9 +9,9 @@ Clean energy intelligence for homes & SMEs: heat-pump savings modeling, solar RO
 <!-- BLOG:START -->
 ## Latest from the blog
 
+- [Smart Thermostat TOU Optimization: Lower Cooling Bills in 2026](https://energyiq.tianji-astrology.com/blog/energyiq-smart-thermostat-tou-optimization-2026)
 - [Home EV Charging Savings: Cut Your Electric Bill in 2026](https://energyiq.tianji-astrology.com/blog/energyiq-home-ev-charging-savings-2026)
 - [Phantom Load: How Standby Power Drains Your Electricity Bill and How to Stop It](https://energyiq.tianji-astrology.com/blog/energyiq-phantom-load-standby-power-2026)
 - [Heat Pump Savings in 2026: What Homeowners Actually Save and How](https://energyiq.tianji-astrology.com/blog/energyiq-heat-pump-savings-guide-2026)
 - [Smart Electrical Panels in 2026: Circuit-Level Control for Real Savings](https://energyiq.tianji-astrology.com/blog/energyiq-smart-electrical-panel-guide-2026)
-- [Time-of-Use Electricity Rates Explained: Peak, Off-Peak, and Real Savings](https://energyiq.tianji-astrology.com/blog/energyiq-time-of-use-rates-2026)
 <!-- BLOG:END -->
