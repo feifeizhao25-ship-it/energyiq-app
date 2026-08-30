@@ -18,9 +18,9 @@ Clean energy intelligence for homes & SMEs: heat-pump savings modeling, solar RO
 <!-- BLOG:START -->
 ## Latest from the blog
 
-- [Heat Pump Water Heaters in 2026: Real Savings, Costs, and Payback](https://energyiq.tianji-astrology.com/blog/energyiq-heat-pump-water-heater-savings-2026)
-- [Fall Home Energy Audit 2026: Find the Waste Before Winter](https://energyiq.tianji-astrology.com/blog/energyiq-fall-home-energy-audit-2026)
-- [Smart Thermostat TOU Optimization: Lower Cooling Bills in 2026](https://energyiq.tianji-astrology.com/blog/energyiq-smart-thermostat-tou-optimization-2026)
-- [Home EV Charging Savings: Cut Your Electric Bill in 2026](https://energyiq.tianji-astrology.com/blog/energyiq-home-ev-charging-savings-2026)
-- [Phantom Load: How Standby Power Drains Your Electricity Bill and How to Stop It](https://energyiq.tianji-astrology.com/blog/energyiq-phantom-load-standby-power-2026)
+- [Wind Energy Innovations: Latest Turbine Technology in 2026 - New Energy](https://energyiq.tianji-astrology.com/blog/wind-energy-innovations)
+- [Solid-State Batteries: The Next Energy Revolution](https://energyiq.tianji-astrology.com/blog/solid-state-batteries-next-revolution)
+- [Solar Panel ROI Calculator: How Much Can You Save in 2026?](https://energyiq.tianji-astrology.com/blog/solar-panel-roi-calculator-2026)
+- [Solar Cell Efficiency Breakthroughs in 2026 - New Energy](https://energyiq.tianji-astrology.com/blog/solar-efficiency-breakthroughs-2026)
+- [Smart Grids Explained: How AI Is Transforming Power Distribution](https://energyiq.tianji-astrology.com/blog/smart-grids-ai-power-distribution)
 <!-- BLOG:END -->
