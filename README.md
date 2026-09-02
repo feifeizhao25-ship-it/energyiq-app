@@ -10,7 +10,7 @@ Clean energy intelligence for homes & SMEs: heat-pump savings modeling, solar RO
 ## Product source and release status
 
 - Canonical web/API/mobile source: [energy-intelligence](https://github.com/feifeizhao25-ship-it/energy-intelligence)
-- Latest verified canonical source: `f474cf4` (2026-09-02)
+- Latest verified canonical source: `93456db` (2026-09-03)
 - Separate CN/global web and CN/global Android/iOS targets are covered by CI; the
   production image workflow now uses valid repository-scoped GHCR names and
   verified Docker build contexts
