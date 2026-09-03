@@ -18,9 +18,9 @@ Clean energy intelligence for homes & SMEs: heat-pump savings modeling, solar RO
 <!-- BLOG:START -->
 ## Latest from the blog
 
-- [Home Battery TOU Arbitrage: Charge Cheap, Discharge Rich in 2026](https://energyiq.tianji-astrology.com/blog/energyiq-home-battery-tou-arbitrage-2026.html)
-- [Wind Energy Innovations: Latest Turbine Technology in 2026 - New Energy](https://energyiq.tianji-astrology.com/blog/wind-energy-innovations)
-- [Solid-State Batteries: The Next Energy Revolution](https://energyiq.tianji-astrology.com/blog/solid-state-batteries-next-revolution)
-- [Solar Panel ROI Calculator: How Much Can You Save in 2026?](https://energyiq.tianji-astrology.com/blog/solar-panel-roi-calculator-2026)
-- [Solar Cell Efficiency Breakthroughs in 2026 - New Energy](https://energyiq.tianji-astrology.com/blog/solar-efficiency-breakthroughs-2026)
+- [Wind Energy Innovations: Latest Turbine Technology in 2026 - New Energy](https://energyiq.tianji-astrology.com/blog/wind-energy-innovations.html)
+- [Solid-State Batteries: The Next Energy Revolution](https://energyiq.tianji-astrology.com/blog/solid-state-batteries-next-revolution.html)
+- [Solar Panel ROI Calculator: How Much Can You Save in 2026?](https://energyiq.tianji-astrology.com/blog/solar-panel-roi-calculator-2026.html)
+- [Solar Cell Efficiency Breakthroughs in 2026 - New Energy](https://energyiq.tianji-astrology.com/blog/solar-efficiency-breakthroughs-2026.html)
+- [Smart Grids Explained: How AI Is Transforming Power Distribution](https://energyiq.tianji-astrology.com/blog/smart-grids-ai-power-distribution.html)
 <!-- BLOG:END -->
